@@ -2,3 +2,4 @@ django
 pdfkit
 reportlab
 python-dateutil
+pytz
