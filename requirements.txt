@@ -4,3 +4,4 @@ reportlab
 python-dateutil
 pytz
 gunicorn
+tkinter
