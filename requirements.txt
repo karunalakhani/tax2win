@@ -1,7 +1,0 @@
-django
-pdfkit
-reportlab
-python-dateutil
-pytz
-gunicorn
-tk
